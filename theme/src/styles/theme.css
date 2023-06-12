@@ -130,8 +130,8 @@
 [data-theme='sand'] {
 	/* Theme Colors */
 	/* Theme Colors */
-	--theme-primary: #e38a20;
-	--theme-primary-hover: #eb870f;
+	--theme-primary: #ff5757;
+	--theme-primary-hover: #ff5757;
 	--theme-on-primary: hsl(0, 0%, 100%);
 
 	--theme-bg: #fffffe;
